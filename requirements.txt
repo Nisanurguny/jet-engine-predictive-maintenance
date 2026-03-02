@@ -1,0 +1,6 @@
+#Kütüphane listesi
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
